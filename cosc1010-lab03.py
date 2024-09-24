@@ -38,19 +38,19 @@ print("Part Two-----------------------------------------------------------------
 States.append("Washington")
 States.append("Oregon")
 States.append("California")
-
+print(States)
 #Again using the specific syntax mentioned in class overwrite the second to last element to be Maine, printing the list 
 States[-2]="Maine"
-
+print(States)
 #Insert the state Texas to be the third element in the list, again printing your list
 States.insert(2,"Texas")
-
+print(States)
 #Using the `del` statement remove the fourth item from the list, print your list 
 del States[3]
-
+print(States)
 #Remove Texas using its value, print the list
 del States[2]
-
+print(States)
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
 print(sorted(States))
