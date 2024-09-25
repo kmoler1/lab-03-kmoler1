@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 9/25/24
 # Lab 03 
-# Lab Section: 
+# Lab Section: 15
 # Sources, people worked with, help given to: 
 # Jay Trujio, Jhett Carr
 
